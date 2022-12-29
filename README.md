@@ -1,6 +1,7 @@
 # Automatic River Capture Detection
 
-A program with visualization interface for automatic detecting river captures
+A program with visualization interface for automatic detecting river captures.
+
 The program is implemented by ArcGIS Engine (C#).
 
 # Installation
